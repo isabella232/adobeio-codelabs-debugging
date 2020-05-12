@@ -3,7 +3,8 @@
   "repository": "https://github.com/AdobeDocs/adobeio-codelabs-template",
   "navigation": [{
     "title": "Introduction",
-    "url": "/README"
+    "url": "/README",
+    "duration": 1
   }, {
     "title": "Requirements",
     "url": "/lessons/requirements"
@@ -14,7 +15,7 @@
     "title": "Lesson 2: Write your app",
     "url": "/lessons/lesson2"
   }, {
-    "title": "Well done",
+    "title": "Well Done",
     "url": "/lessons/welldone"
   }]
 }
