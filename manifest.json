@@ -1,16 +1,22 @@
 {
   "title": "CodeLab title",
   "repository": "https://github.com/AdobeDocs/adobeio-codelabs-template",
+  "author": {
+    "name": "Duy Nguyen",
+    "email": "adobeio-dev@adobe.com"
+  },
   "navigation": [{
     "title": "Introduction",
     "url": "/README",
     "duration": 1
   }, {
     "title": "Requirements",
-    "url": "/lessons/requirements"
+    "url": "/lessons/requirements",
+    "duration": 5
   }, {
-    "title": "Lesson 1: Bootstrap your app",
-    "url": "/lessons/lesson1"
+    "title": "## Lesson 1: Getting familiar with Debugger",
+    "url": "/lessons/lesson1",
+    "duration": 8
   }, {
     "title": "Lesson 2: Write your app",
     "url": "/lessons/lesson2"
