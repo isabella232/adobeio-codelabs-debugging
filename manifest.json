@@ -3,7 +3,7 @@
   "repository": "https://github.com/AdobeDocs/adobeio-codelabs-template",
   "author": {
     "name": "Duy Nguyen",
-    "email": "adobeio-dev@adobe.com"
+    "email": "iodev@adobe.com"
   },
   "navigation": [{
     "title": "Introduction",
@@ -12,16 +12,22 @@
   }, {
     "title": "Requirements",
     "url": "/lessons/requirements",
-    "duration": 5
+    "duration": 3
   }, {
     "title": "## Lesson 1: Getting familiar with Debugger",
     "url": "/lessons/lesson1",
-    "duration": 8
+    "duration": 7
   }, {
-    "title": "Lesson 2: Write your app",
-    "url": "/lessons/lesson2"
+    "title": "Lesson 2: Debugging Application Code",
+    "url": "/lessons/lesson2",
+    "duration": 10
+  }, {
+    "title": "Lesson 3: Managing Application Logs",
+    "url": "/lessons/lesson3",
+    "duration": 5
   }, {
     "title": "Well Done",
-    "url": "/lessons/welldone"
+    "url": "/lessons/welldone",
+    "duration": 1
   }]
 }
