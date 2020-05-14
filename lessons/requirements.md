@@ -15,4 +15,4 @@ If not already done, you should follow the below links to have your environment 
 * [Setting up Your Environment](https://github.com/AdobeDocs/project-firefly/blob/master/getting_started/setup.md). Remark: [Visual Studio Code (VSCode)](https://code.visualstudio.com/download) and [VSCode Debugger for Chrome](https://github.com/Microsoft/vscode-chrome-debug) are required for this lab.
 * [Creating your First Firefly App](https://github.com/AdobeDocs/project-firefly/blob/master/getting_started/first_app.md)
 
-[Start the first lesson](/lessons/lesson1.md).
+[Start the first lesson](lesson1.md)
