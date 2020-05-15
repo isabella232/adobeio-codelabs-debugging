@@ -19,12 +19,12 @@ You may want to debug what is returned from this API call to decide what to do n
 
 Go back to the Chrome Debug window, access the at inside ExC Shell if not already done: https://experience.adobe.com/?devMode=true#/apps/?localDevUrl=https://localhost:9080. Select the `hello` action and invoke. Your debugger would stop at the breakpoint you set earlier, which allows inspecting values of the variables in your code.
 
-![debugger-action](assets/debugger-action.gif)
+![debugger-action](https://github.com/AdobeDocs/adobeio-codelabs-debugging/blob/master/lessons/assets/debugger-action.gif?raw=true)
 
 You can debug your UI code in the `web-src` folder in the same way as [debugging action code](lesson2.md). However, almost every browser comes with handy built-in debugging capabilities, you should leverage these to get the most out of it.  
 
 Below is an example ran on Firefox.
 
-![debugger-ui](assets/debugger-ui.png)
+![debugger-ui](https://github.com/AdobeDocs/adobeio-codelabs-debugging/blob/master/lessons/assets/debugger-ui.png?raw=true)
 
 [Next](lesson3.md)

@@ -12,7 +12,7 @@ Then, open the app in VSCode, and execute `aio app run` in the terminal. You wil
 
 Let's navigate to the "Run" mode.
 
-![debug-config](assets/debug-config.png)
+![debug-config](https://github.com/AdobeDocs/adobeio-codelabs-debugging/blob/master/lessons/assets/debug-config.png?raw=true)
 
 Select the `WebAndActions` profile, and click the Start Debugging button.
 
