@@ -1,6 +1,6 @@
 {
-  "title": "CodeLab title",
-  "repository": "https://github.com/AdobeDocs/adobeio-codelabs-template",
+  "title": "Debugging Firefly Apps",
+  "repository": "https://github.com/AdobeDocs/adobeio-codelabs-debugging",
   "author": {
     "name": "Duy Nguyen",
     "email": "iodev@adobe.com"
